@@ -68,7 +68,7 @@ sudo reboot
 
 ## 📸 Aperçu (Exemple)
 
-!(kiosk.png)
+![KIOSK](kiosk.png)
 *Mon Kiosk HomeAssistant avec une Dell Venue 11 Pro*
 
 ---
