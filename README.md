@@ -68,8 +68,8 @@ sudo reboot
 
 ## 📸 Aperçu (Exemple)
 
-![Chromium en Kiosk](images/kiosk_chromium.png)
-*Chromium en mode kiosk sur ma page Home Assistant*
+!(kiosk.png)
+*Mon Kiosk HomeAssistant avec une Dell Venue 11 Pro*
 
 ---
 
@@ -101,12 +101,11 @@ chromium-browser --kiosk --noerrdialogs --disable-translate <VOTRE_URL> &
 ## 📂 Structure du dépôt
 
 ```
-KIOSK-Ha/
+KIOSK/
 ├─ install.sh           # Script
 ├─ README.md            # Ce fichier
 ├─ LICENSE              # Licence MIT
-├─ images/              # Capture d'écran
-    └─ kiosk.png
+└─ kiosk.png
 ```
 
 ---
